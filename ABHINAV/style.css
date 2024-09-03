@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: #003cff;
+    border: 5px;
+    border-style: solid;
+    border-color: brown;
+    background-color: bisque;
+}
+p{
+    background-image: url(cloud.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+li{
+    list-style-type: lower-alpha;
+}
+img{
+    margin-left: 250px;
+    border-radius: 90px;
+}
+table,th,td{
+    border: 3px solid rgb(255, 30, 0);
+    text-align:center;
+    width:50%;
+}
+.table2{ margin-left:400px;
+}
+
+.head2{
+    background-color: #003cff;
+    margin: 40px 40px 40px 40px;
+    padding: 20px;
+    border-radius: 90px;
+}
